@@ -1,7 +1,6 @@
-### Hi there 👋
-
+### 안녕하세요 꿈을 개발 중인 홍성훈입니다.👋
 <!--
-**hshun37/hshun37** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**shinplest/shinplest** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
@@ -14,3 +13,11 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+[![github stats](https://github-readme-stats.vercel.app/api?username=hshun37&show_icons=true&hide_border=true)](https://github.com/hshun37)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hshun37&layout=compact)](https://github.com/hshun37)
+
+<a href="" target="_blank"><img src="https://img.shields.io/badge/Android-3DDC84?style=flat-square&logo=Android&logoColor=white"/></a>
+<a href="" target="_blank"><img src="https://img.shields.io/badge/JAVA-007396?style=flat-square&logo=Java&logoColor=white"/></a>
+<a href="" target="_blank"><img src="https://img.shields.io/badge/Kotlin-0095D5?style=flat-square&logo=Kotlin&logoColor=white"/></a>
+<a href="" target="_blank"><img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=white"/></a>
