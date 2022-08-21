@@ -1,4 +1,6 @@
+<p align="center">
 ### 코더가 아닌, 개발자라는 꿈을 개발중인 홍성훈입니다!👋
+</p>
 <h3 align="center"><b>🛠 Tech Stack 🛠</b></h3>
 <p align="center">
 <img src="https://img.shields.io/badge/JAVA-007396?style=for-the-badge&logo=JAVA&logoColor=white">
